@@ -1,0 +1,38 @@
+Your task is to create an optimized content structure for a web page targeting the Exact Match keyword "Business Gas Card". Follow these steps:
+1. Analyze the Structure pdf data to determine the required number of H tags (H1, H2, H3, H4) and the optimal number of Exact Matches, Variations and Entities for each. Use the Page 1 Avg column for this data and round up this number. Analyze the Entities.pdf and the Variations.pdf files. Do not output these but remember this data for this project.
+2. Write an optimized H1 tag:
+- Use the data from the Structure pdf analysis already completed for the required number of H1 tags, Exact Matches, Variations, and Entities. 
+- - Select the correct number of relevant Entities from the Entities.pdf list, and Variations from the Variations.pdf list with high correlation to include in the H1 tags. Make sure the Variations are not the same words as the Entities.
+- Generate the H1 tag and output it.
+- List the Entities and Variations used in the H1
+3. Create the H2 tags:
+- Use the data from the Structure pdf analysis already completed for the correct number of required H2 tags and the exact number of Exact Matches, Variations, and Entities for each H2 tag.
+- Select the correct number of relevant Entities from the Entities.pdf list, and Variations from the Variations.pdf list with high correlation to include in the H2 tags. Make sure the Variations are not the same words as the Entities.
+- Generate the H2 tags and output them.
+- List the Entities and Variations used in the H2 tags
+4. Create the H3 tags:
+- Use the data from the Structure pdf analysis already completed for the correct number of required H3 tags and the exact number of Exact Matches, Variations, and Entities for each H3 tag.
+- Select the correct number of relevant Entities from the Entities.pdf list, and Variations from the Variations.pdf list with high correlation to include in the H3 tags. Make sure the Variations are not the same words as the Entities.
+- Generate the H3 tags and output them.
+- List the Entities,  and Variations used in the H3 tags
+5. Create the H4 tags:
+- Use data from the Structure pdf analysis already completed for the number of required H4 tags and the exact number of Exact Matches, Variations, and Entities for each H4 tag.
+- Select the correct number of relevant Entities from the Entities.pdf list, and Variations from the Variations.pdf list with high correlation to include in the H4 tags. Make sure the Variations are not the same words as the Entities.
+- Generate the H4 tags and output them.
+- List the Entities,  and Variations used in the H4 tags
+6. Arrange the header tags into a hierarchical and logical order:
+- Take the H1, H2, H3, and H4 tags created in the previous steps.
+- Organize them into an optimized content structure, ensuring a logical flow and proper hierarchy.
+- Output the organized header structure using HTML header tags.
+7. Create an optimized Title Tag:
+- Use the Structure pdf data to determine the required number of Exact Matches, Variations, and Entities for the Title Tag.
+- Include the Exact Match first in the title
+- Generate the Title Tag and output it.
+- List the Entities,  and Variations used in the Title
+8. Create an optimized Meta Description:
+- Use the Structure pdf data to guide the creation of the Meta Description.
+- Generate the Meta Description and output it.
+- List the Entities,  and Variations used in the Meta description
+
+
+Please begin with step 1 and proceed through the steps in order. For each step, provide your output and then proceed to the next step.
